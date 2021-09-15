@@ -5,8 +5,7 @@ import arraymancer
 import arraymancer/tensor/private/p_accessors
 
 import timelog
-import tensortools/npytensors
-
+import ./npytensors
 import ./gridutils
 
 import std/browsers
